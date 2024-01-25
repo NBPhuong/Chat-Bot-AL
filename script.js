@@ -5,7 +5,7 @@ const chatbotToggler = document.querySelector(".chatbot-toggler");
 const chatbotCloseBtn = document.querySelector(".close-btn");
 
 let userMessage;
-const API_KEY = "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";
+const API_KEY = ".....";
 const inputInitHeight = chatInput.scrollHeight;
 const createChatLi = (message,className) =>{
     // tạo phần tử trò chuyện <li > với tin nhắn và tên lớp được chuyển
