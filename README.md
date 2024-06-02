@@ -1,4 +1,4 @@
-# Fake Chat Bot AL with GPT
+# Chat Bot AL with GPT
 ## Overview
 
 TChat-Bot-AL is a chatbot that simulates the behavior of OpenAI's GPT model. This project is designed to emulate the GPT chat experience for demonstration and educational purposes. It uses AI to generate responses based on user input.
